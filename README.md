@@ -82,7 +82,6 @@
 - 👨‍💻 All of my repositories are available at Github
 - 📝 I regularly write articles on projuktiplus.net and topit24.com
 - 📫 How to reach me **nayemspecial@gmail.com**
-- 📄 Know about my experiences [admin.projuktiplus.com](admin.projuktiplus.com)
 
 <h4 align="left">Stay connected with me</h4>
 <p dir="auto">
