@@ -119,19 +119,19 @@
 
 <span align="left">
   <a href="https://github.com/nayemspecial">
-    <img src="https://github-readme-stats.vercel.app/api?username=nayemspecial&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="nayemspecial's Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayemspecial&theme=DarculaCode&show_icons=true&hide_border=false&count_private=true" alt="nayemspecial's Stats">
   </a>
 </span>
 
 <span align="center">
   <a href="https://github.com/nayemspecial">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemspecial&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="nayemspecial's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemspecial&theme=DarculaCode&show_icons=true&hide_border=false&layout=compact" alt="nayemspecial's Top Languages">
   </a>
 </span>
 
 <span align="right">
   <a href="https://github.com/nayemspecial">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemspecial&theme=darcula&hide_border=true" alt="nayemspecial's Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemspecial&theme=DarculaCode&hide_border=false" alt="nayemspecial's Streak">
   </a>
 </span>
 
