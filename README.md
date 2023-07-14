@@ -1,5 +1,5 @@
-## Hey! 👋 Happy to see you ! <span style="font-size:26px; font-weight:300;">I'm Nayemur Rahman.</span> <span>A passionate <b>Laravel</b> and <b>WordPress</b> Developer.</span>
-<p><span style="font-size:26px; font-weight:300;">I'm Nayemur Rahman.</span> <span>A passionate <b>Laravel</b> and <b>WordPress</b> Developer. Let's build amazing things togeter. Enjoy your journey on Github! </p>
+## Hey! 👋 Happy to see you ! 
+<p><span style="font-size:26px; font-weight:300;">I'm Nayemur Rahman.</span> <span>A passionate <b>Laravel</b> and <b>WordPress</b> Developer. Let's build amazing things togeter. Enjoy your journey on Github! </span> </p>
 
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com">
@@ -64,24 +64,12 @@
 </p>
 
 
-<span align="left">
-  <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-stats.vercel.app/api?username=nayemur-rahman&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="nayemur-rahman's Stats">
-  </a>
-</span>
-
-<span align="center">
-  <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemur-rahman&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="nayemur-rahman's Top Languages">
-  </a>
-</span>
-
 
 - 🔭 I’m currently working on Digital IT Institute
 - 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Buider**
 - 🌱 I’m currently learning **Vue.js**
 - 👯 I’m looking to collaborate on **DoctorApps**
-- 👨‍💻 All of my projects are available at Github
+- 👨‍💻 All of my repositories are available at Github
 - 📝 I regularly write articles on projuktiplus.net and topit24.com
 - 📫 How to reach me **nayemspecial@gmail.com**
 - 📄 Know about my experiences [admin.projuktiplus.com](admin.projuktiplus.com)
@@ -129,10 +117,21 @@
   </a>
 </p>
 
+<span align="left">
+  <a href="https://github.com/nayemspecial">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayemspecial&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="nayemspecial's Stats">
+  </a>
+</span>
+
+<span align="center">
+  <a href="https://github.com/nayemspecial">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemspecial&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="nayemspecial's Top Languages">
+  </a>
+</span>
 
 <span align="right">
-  <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemur-rahman&theme=darcula&hide_border=true" alt="nayemur-rahman's Streak">
+  <a href="https://github.com/nayemspecial">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemspecial&theme=darcula&hide_border=true" alt="nayemspecial's Streak">
   </a>
 </span>
 
