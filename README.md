@@ -63,7 +63,17 @@
   </a>
 </p>
 
+<span align="left">
+  <a href="https://github.com/nayemspecial">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayemspecial&theme=DarculaCode&show_icons=true&hide_border=false&count_private=true" alt="nayemspecial's Stats">
+  </a>
+</span>
 
+<span align="center">
+  <a href="https://github.com/nayemspecial">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemspecial&theme=DarculaCode&show_icons=true&hide_border=false&layout=compact" alt="nayemspecial's Top Languages">
+  </a>
+</span>
 
 - 🔭 I’m currently working on Digital IT Institute
 - 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Buider**
@@ -117,17 +127,7 @@
   </a>
 </p>
 
-<span align="left">
-  <a href="https://github.com/nayemspecial">
-    <img src="https://github-readme-stats.vercel.app/api?username=nayemspecial&theme=DarculaCode&show_icons=true&hide_border=false&count_private=true" alt="nayemspecial's Stats">
-  </a>
-</span>
 
-<span align="center">
-  <a href="https://github.com/nayemspecial">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemspecial&theme=DarculaCode&show_icons=true&hide_border=false&layout=compact" alt="nayemspecial's Top Languages">
-  </a>
-</span>
 
 <span align="right">
   <a href="https://github.com/nayemspecial">
