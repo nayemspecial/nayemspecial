@@ -1,5 +1,5 @@
-## Hey! 👋 Happy to see you !
-<p><span style="font-size:26px; font-weight:300;">I'm Nayemur Rahman.</span> <span>A passionate <b>Laravel</b> and <b>WordPress</b> Developer. Let's build amazing things togeter. Enjoy your journey on Github! </span></p>
+## Hey! 👋 Happy to see you ! <span style="font-size:26px; font-weight:300;">I'm Nayemur Rahman.</span> <span>A passionate <b>Laravel</b> and <b>WordPress</b> Developer.</span>
+<p><span style="font-size:26px; font-weight:300;">I'm Nayemur Rahman.</span> <span>A passionate <b>Laravel</b> and <b>WordPress</b> Developer. Let's build amazing things togeter. Enjoy your journey on Github! </p>
 
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com">
