@@ -63,11 +63,12 @@
   </a>
 </p>
 
-<p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f6104e73e4e07ee81c3a9223083d604446183f5c9d08cde7fec91b36f21b0fae/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a726126686964653d6973737565732673686f775f69636f6e733d74727565">
-    <img src="https://camo.githubusercontent.com/f6104e73e4e07ee81c3a9223083d604446183f5c9d08cde7fec91b36f21b0fae/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a726126686964653d6973737565732673686f775f69636f6e733d74727565" alt="nayemspecial's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=nayemspecial&amp;hide=issues&amp;show_icons=true" style="max-width: 100%;">
+<p align="center">
+  <a href="https://github.com/nayemspecial">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&hide=issues" alt="nayemspecial's GitHub Stats" />
   </a>
 </p>
+
 
 
 
