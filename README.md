@@ -63,13 +63,15 @@
   </a>
 </p>
 
+
 <p align="left">
   <a href="https://github.com/nayemspecial">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&hide=issues" alt="nayemspecial's GitHub Stats" />
   </a>
+  <a href="https://github.com/nayemspecial">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemspecial&layout=compact" alt="nayemspecial's Top Languages" />
+  </a>
 </p>
-
-
 
 
 
