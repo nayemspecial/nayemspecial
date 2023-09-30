@@ -76,7 +76,7 @@
 
 
 
-- 🔭 I’m currently working on Digital IT Institute
+- 🔭 I’m currently working on Pixel IT Institute
 - 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Buider**
 - 🌱 I’m currently learning **Vue.js**
 - 👯 I’m looking to collaborate on **DoctorApps**
@@ -86,45 +86,23 @@
 
 <h4 align="left">Stay connected with me</h4>
 <p dir="auto">
-  <a href="https://codepen.io/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&amp;logo=codepen&amp;logoColor=white" alt="CodePen" style="max-width: 100%;">
-  </a>
-  
-  <a href="https://twitter.com/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&amp;logo=twitter&amp;logoColor=white" alt="Twitter" style="max-width: 100%;">
-  </a>
-  
+
   <a href="https://linkedin.com/in/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" style="max-width: 100%;">
   </a>
-  
-  <a href="https://stackoverflow.com/users/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&amp;logo=stackoverflow&amp;logoColor=white" alt="Stack Overflow" style="max-width: 100%;">
-  </a>
-  
+
   <a href="https://fb.com/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook" style="max-width: 100%;">
   </a>
-  
-  <a href="https://instagram.com/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" style="max-width: 100%;">
+
+  <a href="https://www.youtube.com/c/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube" style="max-width: 100%;">
   </a>
-  
-  <a href="https://dribbble.com/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Dribbble-D95992?style=flat-square&amp;logo=dribbble&amp;logoColor=white" alt="Dribbble" style="max-width: 100%;">
-  </a>
-  
-  <a href="https://www.behance.net/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&amp;logo=behance&amp;logoColor=white" alt="Behance" style="max-width: 100%;">
-  </a>
-  
+
   <a href="https://hashnode.com/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&amp;logo=hashnode&amp;logoColor=white" alt="Hashnode" style="max-width: 100%;">
   </a>
   
-  <a href="https://www.youtube.com/c/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube" style="max-width: 100%;">
-  </a>
 </p>
 
 
