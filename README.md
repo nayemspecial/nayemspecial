@@ -95,7 +95,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook" style="max-width: 100%;">
   </a>
 
-  <a href="https://www.youtube.com/c/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://www.youtube.com/c/projuktiplus" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube" style="max-width: 100%;">
   </a>
 
