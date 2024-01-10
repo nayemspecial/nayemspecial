@@ -1,5 +1,5 @@
 ## Hey! 👋 Happy to see you ! 
-<p><span style="font-size:26px; font-weight:300;">I'm Nayemur Rahman.</span> <span>A passionate <b>Laravel</b> and <b>WordPress</b> Developer. Let's build amazing things togeter. Enjoy your journey on Github! </span> </p>
+<p><span style="font-size:26px; font-weight:300;">I'm Nayemur Rahman.</span> <span>A passionate <b>Laravel</b> and <b>WordPress</b> Developer. Let's build amazing things together. Enjoy your journey on Github! </span> </p>
 
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com">
@@ -77,7 +77,7 @@
 
 
 - 🔭 I’m currently working as a Web Development Mentor at [Pixel IT Institute](https://www.pixelitinst.com/pixel-teams.php) 
-- 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Buider**
+- 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Builder**
 - 🌱 I’m currently learning **Vue.js**
 - 👯 I’m looking to collaborate on **DoctorApps**
 - 👨‍💻 All of my repositories are available at Github
