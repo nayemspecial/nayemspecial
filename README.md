@@ -1,16 +1,4 @@
 ## Hey! 👋 Happy to see you ! 
-    <div class="parent" style="display: flex;">
-        <div class="left">
-            <h2>Md. Nayemur Rahman</h2>
-            <h4>A Laravel and WordPress Developer.</h4>
-        </div>
-        <div class="right">
-            <h2>Work Experience</h2>
-            <h2>Work Experience</h2>
-            <h2>Work Experience</h2>
-            <h2>Work Experience</h2>
-        </div>
-    </div>
 <p><span style="font-size:26px; font-weight:300;">I'm Nayemur Rahman.</span> <span>A passionate <b>Laravel</b> and <b>WordPress</b> Developer. Let's build amazing things together. Enjoy your journey on Github! </span> </p>
 
 <p dir="auto">
