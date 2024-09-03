@@ -76,7 +76,6 @@
 
 
 
-- 🔭 I’m currently working as a Web Development Mentor at [Pixel IT Institute](https://www.pixelitinst.com/pixel-teams.php) 
 - 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Builder**
 - 🌱 I’m currently learning **Vue.js**
 - 👯 I’m looking to collaborate on **DoctorApps**
