@@ -76,12 +76,11 @@
 
 
 
-- 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Builder**
-- 🌱 I’m currently learning **Vue.js**
+- 💬 Ask me about **Laravel**, **Vue.js**, **WordPress Theme Development** and **Elementor Page Builder**
+- 🌱 I’m currently learning **Inertia**
 - 👯 I’m looking to collaborate on **DoctorApps**
 - 👨‍💻 All of my repositories are available at Github
-- 📝 I regularly write articles on projuktiplus.net and topit24.com
-- 📫 How to reach me **nayemspecial@gmail.com**
+- 📫 How to reach me **nayemspecial@gmail.com** **facebook.com/nayemspecial**
 
 <h4 align="left">Stay connected with me</h4>
 <p dir="auto">
