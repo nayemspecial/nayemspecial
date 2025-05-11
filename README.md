@@ -77,10 +77,9 @@
 
 
 - 💬 Ask me about **Laravel**, **Vue.js**, **WordPress Theme Development** and **Elementor Page Builder**
-- 🌱 I’m currently learning **Inertia**
-- 👯 I’m looking to collaborate on **DoctorApps**
+- 🌱 I’m currently learning **Inertia.js**
 - 👨‍💻 All of my repositories are available at Github
-- 📫 How to reach me **nayemspecial@gmail.com** **facebook.com/nayemspecial**
+- 📫 How to reach me **nayemspecial@gmail.com** **https://facebook.com/nayemspecial**
 
 <h4 align="left">Stay connected with me</h4>
 <p dir="auto">
