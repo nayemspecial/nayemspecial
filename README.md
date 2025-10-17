@@ -76,10 +76,12 @@
 
 
 
-- 💬 Ask me about **Laravel**, **Vue.js**, **WordPress Theme Development** and **Elementor Page Builder**
-- 🌱 I’m currently learning **Inertia.js**
+- 💬 Ask me about **Laravel**, **Vue.js**, **React.js**, **WordPress** and **Elementor Page Builder**
+- 🌱 I’m currently learning **Liveware** and **Inertia.js**
+- 💻 A Tech Content Creator at YouTube. Channel Name [Projukti Plus](https://www.youtube.com/@projuktiplus)
 - 👨‍💻 All of my repositories are available at Github
-- 📫 How to reach me **nayemspecial@gmail.com** **https://facebook.com/nayemspecial**
+- 📫 How to reach me: Gmail **nayemspecial@gmail.com**
+- 🌐 Visit my social media using this username **nayemspecial** such as: [https://facebook.com/nayemspecial)](https://facebook.com/nayemspecial)
 
 <h4 align="left">Stay connected with me</h4>
 <p dir="auto">
