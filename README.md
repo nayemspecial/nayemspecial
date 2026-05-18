@@ -113,8 +113,6 @@
 </span>
 
 
-## 🚀 Featured Projects
-
 | | |
 | :--- | :--- |
 | 📖 **[Full-Stack-JavaScript-Roadmap](https://github.com/YOUR_USERNAME/Full-Stack-JavaScript-Roadmap)** `Public` <br><br> Full-Stack JavaScript Course with roadmap, video link, source codes, documentation from beginner to advanced. Updated regularly! <br><br> 🟡 JavaScript &nbsp;&nbsp; ⭐️ 2 | 📖 **[WordPress-Support-Engineer](https://github.com/YOUR_USERNAME/WordPress-Support-Engineer)** `Public` <br><br> A complete learning resource for becoming a WordPress Support Engineer with structured course outlines and YouTube playlists. Includes HTML, CSS... <br><br> 🔵 PHP &nbsp;&nbsp; ⭐️ 24 &nbsp;&nbsp; 🔱 10 |
