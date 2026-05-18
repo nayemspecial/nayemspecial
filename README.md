@@ -113,6 +113,12 @@
 </span>
 
 
+## 🚀 Featured Projects
 
+| | |
+| :--- | :--- |
+| 📖 **[Full-Stack-JavaScript-Roadmap](https://github.com/YOUR_USERNAME/Full-Stack-JavaScript-Roadmap)** `Public` <br><br> Full-Stack JavaScript Course with roadmap, video link, source codes, documentation from beginner to advanced. Updated regularly! <br><br> 🟡 JavaScript &nbsp;&nbsp; ⭐️ 2 | 📖 **[WordPress-Support-Engineer](https://github.com/YOUR_USERNAME/WordPress-Support-Engineer)** `Public` <br><br> A complete learning resource for becoming a WordPress Support Engineer with structured course outlines and YouTube playlists. Includes HTML, CSS... <br><br> 🔵 PHP &nbsp;&nbsp; ⭐️ 24 &nbsp;&nbsp; 🔱 10 |
+| | |
+| 📖 **[Elementor-Widgets-Collection](https://github.com/YOUR_USERNAME/Elementor-Widgets-Collection)** `Public` <br><br> Elementor team members is a custom widget. <br><br> 🔵 PHP &nbsp;&nbsp; ⭐️ 2 &nbsp;&nbsp; 🔱 1 | 📖 **[lessonLMS](https://github.com/YOUR_USERNAME/lessonLMS)** `Public` <br><br> lessonLMS is a custom-built, lightweight WordPress Theme that transform your site into a personal Learning Management System (LMS). <br><br> 🔵 PHP &nbsp;&nbsp; ⭐️ 1 &nbsp;&nbsp; 🔱 1 |
 
 
