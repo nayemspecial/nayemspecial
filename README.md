@@ -108,7 +108,7 @@
 
 <span align="right">
   <a href="https://github.com/nayemspecial">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemspecial&layout=compact&theme=dark" alt="nayemspecial's Stats">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayemspecial&theme=react-dark&bg_color=0d1117&hide_border=true" alt="nayemspecial's Activity Graph" />
   </a>
 </span>
 
