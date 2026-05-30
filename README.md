@@ -108,9 +108,11 @@
 
 <span align="right">
   <a href="https://github.com/nayemspecial">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayemspecial&theme=react-dark&bg_color=0d1117&hide_border=true" alt="nayemspecial's Activity Graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemspecial&theme=DarculaCode&hide_border=false&v=3" alt="nayemspecial's Streak">
   </a>
 </span>
+
+
 
 
 
