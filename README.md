@@ -76,7 +76,7 @@
 
 
 
-- 💬 Ask me about **Laravel**, **Vue.js**, **React.js**, **WordPress** and **Elementor Page Builder**
+- 💬 Ask me about **Laravel**, **Vue.js**, **Alpine.js**, **React.js**, **WordPress Custom Theme & Plugin**, **Elementor Page Builder**, **Elementor Widget Development**
 - 🌱 I’m currently learning **Livewire** and **Inertia.js**
 - 💻 A Tech Content Creator at YouTube. Channel Name [Projukti Plus](https://www.youtube.com/@projuktiplus)
 - 👨‍💻 All of my repositories are available at Github
