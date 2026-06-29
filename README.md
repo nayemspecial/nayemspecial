@@ -2,86 +2,171 @@
 <p><span style="font-size:26px; font-weight:300;">I'm Nayemur Rahman.</span> <span>A passionate <b>Laravel</b> and <b>WordPress</b> Developer. Let's build amazing things together. Enjoy your journey on Github! </span> </p>
 
 <p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://wordpress.org">
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://vuejs.org">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://elementor.com">
-    <img src="https://img.shields.io/badge/Elementor-666666?style=flat-square&amp;logo=elementor&amp;logoColor=white" alt="Elementor" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://livewire.laravel.com">
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://php.net">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://inertiajs.com">
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://mysql.com">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://react.dev">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React.js" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://alpinejs.dev">
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white" alt="Alpine.js" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://jquery.com">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white" alt="jQuery" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.php.net">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://getbootstrap.com">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mysql.com">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://tailwindcss.com">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind CSS" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.postgresql.org">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.sqlite.org">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://getcomposer.org">
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://vite.dev">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&amp;logo=adobe-photoshop&amp;logoColor=white" alt="Photoshop" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.npmjs.com">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&amp;logo=adobe-illustrator&amp;logoColor=white" alt="Illustrator" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://pestphp.com">
+  <img src="https://img.shields.io/badge/Pest-7B2BF9?style=flat-square&logo=pest&logoColor=white" alt="Pest" style="max-width:100%;">
+</a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.figma.com">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://phpunit.de">
+  <img src="https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white" alt="PHPUnit" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.docker.com">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://wordpress.org">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.wordpress.org/themes">
+  <img src="https://img.shields.io/badge/WP_Theme-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WP Theme" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.wordpress.org/plugins">
+  <img src="https://img.shields.io/badge/WP_Plugin-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WP Plugin" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://woocommerce.com">
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://elementor.com">
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://developers.elementor.com">
+  <img src="https://img.shields.io/badge/Elementor_Widget-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor Widget" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://axios-http.com">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://sass-lang.com">
+  <img src="https://img.shields.io/badge/Sass_(SCSS)-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass (SCSS)" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://tailwindcss.com">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://getbootstrap.com">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://jquery.com">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://figma.com">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.canva.com">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.adobe.com/products/photoshop.html">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.adobe.com/products/illustrator.html">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" style="max-width:100%;">
+</a>
 </p>
 
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/nayemspecial">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&hide=issues" alt="nayemspecial's GitHub Stats" />
   </a>
   <a href="https://github.com/nayemspecial">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemspecial&layout=compact" alt="nayemspecial's Top Languages" />
   </a>
-</p>
+</p> -->
 
 
 
-
+<!-- <p>
 - 💬 Ask me about **Laravel**, **Vue.js**, **Alpine.js**, **React.js**, **WordPress Custom Theme & Plugin**, **Elementor Page Builder**, **Elementor Widget Development**
 - 🌱 I’m currently learning **Livewire** and **Inertia.js**
 - 💻 A Tech Content Creator at YouTube. Channel Name [Projukti Plus](https://www.youtube.com/@projuktiplus)
 - 👨‍💻 All of my repositories are available at Github
 - 📫 How to reach me: Gmail **nayemspecial@gmail.com**
 - 🌐 Visit my social media using this username **nayemspecial** such as: [https://facebook.com/nayemspecial)](https://facebook.com/nayemspecial)
+</p> -->
 
 <h4 align="left">Stay connected with me</h4>
 <p dir="auto">
