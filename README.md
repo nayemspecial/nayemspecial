@@ -39,7 +39,7 @@
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.sqlite.org">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/SQLite-C0C0C0?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="max-width:100%;">
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://getcomposer.org">
@@ -71,7 +71,7 @@
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/GitHub-0769AD?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-width:100%;">
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://wordpress.org">
@@ -91,11 +91,11 @@
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://elementor.com">
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/Elementor-436EDB?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" style="max-width:100%;">
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://developers.elementor.com">
-  <img src="https://img.shields.io/badge/Elementor_Widget-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor Widget" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/Elementor_Widget-27A9F5?style=flat-square&logo=elementor&logoColor=white" alt="Elementor Widget" style="max-width:100%;">
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://axios-http.com">
