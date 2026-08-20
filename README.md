@@ -193,10 +193,9 @@
 
 <span align="right">
   <a href="https://github.com/nayemspecial">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=nayemspecial&theme=dark&hide_border=false" alt="nayemspecial's Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&theme=dark" alt="nayemspecial's Streak">
   </a>
 </span>
-
 
 
 
