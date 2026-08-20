@@ -193,7 +193,7 @@
 
 <span align="right">
   <a href="https://github.com/nayemspecial">
-    <img src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&theme=dark" alt="nayemspecial's Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&theme=dracula&include_all_commits=true" alt="nayemspecial's Stats" />
   </a>
 </span>
 
