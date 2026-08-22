@@ -191,13 +191,6 @@
 
 
 
-<span align="right">
-  <a href="https://github.com/nayemspecial">
-    <img src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&theme=dracula&include_all_commits=true" alt="nayemspecial's Stats" />
-  </a>
-</span>
 
 
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nayemspecial&timezone=%2B6)](https://git.io/streak-stats)
