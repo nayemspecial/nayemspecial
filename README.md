@@ -194,3 +194,4 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nayemspecial&timezone=%2B6)](https://git.io/streak-stats)
+![Nayemur Rahman's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=nayemspecial&show_icons=true&theme=transparent)
